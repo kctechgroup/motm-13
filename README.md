@@ -1,2 +1,3 @@
-# motm-13
-Meeting of the Minds #13 - Heroku
+# Meeting of the Minds #13
+
+Platform Topic: Heroku
